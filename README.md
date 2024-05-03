@@ -1,1 +1,1 @@
-# .github
+# Not Official KasperskyOS Community
